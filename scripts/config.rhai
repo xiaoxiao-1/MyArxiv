@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["SLAM", "Odometry", "Large-scale", "Long-term",   "Optimization",  "Control", "Swarm", "Segmentation", "Life", "estimator","VPR","loc"];
+let titles_model = ["SLAM", "Odometry", "Large-scale","Large-Scale", "Long-term",   "Optimization",  "Control", "Swarm", "Segmentation", "Life", "estimator","VPR","loc"];
 let titles_method = ["Certifiable", "Self-Supervised", "Semi-Supervised", "Unsupervised", "Fusion", "Navigation",  "Calibration", "Reinforcement", "Relocalization", "loop", "global", "outlier",
 "localization", "dynamic", "sparsification", "graph", "clique"];
 let titles =  titles_model + titles_method + titles_type;
